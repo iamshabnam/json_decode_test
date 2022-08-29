@@ -1,0 +1,1 @@
+export 'package:json_decode_test/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
