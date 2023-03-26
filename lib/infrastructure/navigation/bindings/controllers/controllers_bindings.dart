@@ -1,1 +1,2 @@
 export 'package:json_decode_test/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
+export 'package:json_decode_test/infrastructure/navigation/bindings/controllers/test_screen.controller.binding.dart'; 

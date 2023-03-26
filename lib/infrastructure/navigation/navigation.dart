@@ -31,5 +31,10 @@ class Nav {
       page: () => HomeScreen(),
       binding: HomeControllerBinding(),
     ),
+    GetPage(
+      name: Routes.TEST_SCREEN,
+      page: () => TestScreenScreen(),
+      binding: TestScreenControllerBinding(),
+    ),
   ];
 }
